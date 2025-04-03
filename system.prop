@@ -5,8 +5,11 @@ ro.build.tags=release-keys
 
 # Other
 ro.build.type=user
-ro.debuggable=0
-ro.secure=1
+ro.debuggable=1
+ro.secure=0
+ro.system.build.fingerprint=google/komodo_beta/komodo:16/BP22.250221.013/13218340:user/release-keys
+ro.product.build.fingerprint=google/komodo_beta/komodo:16/BP22.250221.013/13218340:user/release-keys
+ro.system_ext.build.fingerprint=google/komodo_beta/komodo:16/BP22.250221.013/13218340:user/release-keys
 
 # optimize parameter
 persist.sys.scrollingcache=3
